@@ -1,4 +1,4 @@
-# Parody of **Sctatch** *made on python(tkinter)*
+# Parody of **Scretch** *made on python(tkinter)*
 
 ![scratch_ico](https://scratch.mit.edu/images/scratch-og.png)
 
